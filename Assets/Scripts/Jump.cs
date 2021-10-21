@@ -49,6 +49,7 @@ public class Jump : MonoBehaviour
         }
     }
     //PlayerPrefs.Save();
+    //erdemDeneme1
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "DeathArea")
