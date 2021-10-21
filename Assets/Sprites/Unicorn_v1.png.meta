@@ -1,0 +1,1952 @@
+fileFormatVersion: 2
+guid: ece0258428e01374b96c984816aa4d0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6484525612919772220
+    second: Elif_FB_Sprites_0
+  - first:
+      213: 5737972877244580
+    second: Elif_FB_Sprites_1
+  - first:
+      213: -926834591034599053
+    second: Elif_FB_Sprites_2
+  - first:
+      213: -5311944967449730940
+    second: Elif_FB_Sprites_3
+  - first:
+      213: 4385915539795089800
+    second: Elif_FB_Sprites_4
+  - first:
+      213: 2588629179740579949
+    second: Elif_FB_Sprites_5
+  - first:
+      213: -6371097780801926392
+    second: Elif_FB_Sprites_6
+  - first:
+      213: 1609265825248832930
+    second: Elif_FB_Sprites_7
+  - first:
+      213: -1267521664003618172
+    second: Elif_FB_Sprites_8
+  - first:
+      213: -1383318097648275942
+    second: Elif_FB_Sprites_9
+  - first:
+      213: 544987213396229783
+    second: Elif_FB_Sprites_10
+  - first:
+      213: -3958774420896337121
+    second: Elif_FB_Sprites_11
+  - first:
+      213: -5628476295650359325
+    second: Elif_FB_Sprites_12
+  - first:
+      213: -8437369849602907713
+    second: Elif_FB_Sprites_13
+  - first:
+      213: -2403101901046343929
+    second: Elif_FB_Sprites_14
+  - first:
+      213: -4099959066555416531
+    second: Elif_FB_Sprites_15
+  - first:
+      213: -642249714093167520
+    second: Elif_FB_Sprites_16
+  - first:
+      213: 4547318831347499421
+    second: Elif_FB_Sprites_17
+  - first:
+      213: -6551555493090260462
+    second: Elif_FB_Sprites_18
+  - first:
+      213: -7892958864324951607
+    second: Elif_FB_Sprites_19
+  - first:
+      213: 712774228767628658
+    second: Elif_FB_Sprites_20
+  - first:
+      213: 7625714950985643427
+    second: Elif_FB_Sprites_21
+  - first:
+      213: -4026445756094332606
+    second: Elif_FB_Sprites_22
+  - first:
+      213: 1324044648407256712
+    second: Elif_FB_Sprites_23
+  - first:
+      213: -5980235292888772687
+    second: Elif_FB_Sprites_24
+  - first:
+      213: 5306247854292454872
+    second: Elif_FB_Sprites_25
+  - first:
+      213: -6862348938516427911
+    second: Elif_FB_Sprites_26
+  - first:
+      213: -1147412876769987792
+    second: Elif_FB_Sprites_27
+  - first:
+      213: 4468508462446424197
+    second: Elif_FB_Sprites_28
+  - first:
+      213: -899521697323039569
+    second: Elif_FB_Sprites_29
+  - first:
+      213: 173846789924705816
+    second: Elif_FB_Sprites_30
+  - first:
+      213: -3206234355658010804
+    second: Elif_FB_Sprites_31
+  - first:
+      213: -7853851110203787103
+    second: Elif_FB_Sprites_32
+  - first:
+      213: -9203890951265173168
+    second: Elif_FB_Sprites_33
+  - first:
+      213: -427764442717396733
+    second: Elif_FB_Sprites_34
+  - first:
+      213: 7192528039389625685
+    second: Elif_FB_Sprites_35
+  - first:
+      213: 1298697789613188947
+    second: Elif_FB_Sprites_36
+  - first:
+      213: -6361708589388533985
+    second: Elif_FB_Sprites_37
+  - first:
+      213: -3984274478781257831
+    second: Elif_FB_Sprites_38
+  - first:
+      213: 7337876134279958799
+    second: Elif_FB_Sprites_39
+  - first:
+      213: 1962002895374816814
+    second: Elif_FB_Sprites_40
+  - first:
+      213: 1086093529525406056
+    second: Elif_FB_Sprites_41
+  - first:
+      213: -5278831520789075542
+    second: Elif_FB_Sprites_42
+  - first:
+      213: 7672969525785251796
+    second: Elif_FB_Sprites_43
+  - first:
+      213: 3368090194334619603
+    second: Elif_FB_Sprites_44
+  - first:
+      213: 1055205070506715423
+    second: Elif_FB_Sprites_45
+  - first:
+      213: 947779196370454552
+    second: Elif_FB_Sprites_46
+  - first:
+      213: -5860577220804201730
+    second: Elif_FB_Sprites_47
+  - first:
+      213: 6721511228343366523
+    second: Elif_FB_Sprites_48
+  - first:
+      213: 1633550868219657255
+    second: Elif_FB_Sprites_49
+  - first:
+      213: 5973258751674137620
+    second: Elif_FB_Sprites_50
+  - first:
+      213: 7195157393181590054
+    second: Elif_FB_Sprites_51
+  - first:
+      213: 1727442676393273159
+    second: Elif_FB_Sprites_52
+  - first:
+      213: -4999458952978680977
+    second: Elif_FB_Sprites_53
+  - first:
+      213: 7584167679971699927
+    second: Elif_FB_Sprites_54
+  - first:
+      213: 8743688327440848838
+    second: Elif_FB_Sprites_55
+  - first:
+      213: 8597294977726743254
+    second: Elif_FB_Sprites_56
+  - first:
+      213: 4678193529112297917
+    second: Elif_FB_Sprites_57
+  - first:
+      213: 7592560264160981840
+    second: Elif_FB_Sprites_58
+  - first:
+      213: -882715636748820731
+    second: Elif_FB_Sprites_59
+  - first:
+      213: -7197779542909568377
+    second: Elif_FB_Sprites_60
+  - first:
+      213: 7588899254692725108
+    second: Elif_FB_Sprites_61
+  - first:
+      213: 8026168601307837041
+    second: Elif_FB_Sprites_62
+  - first:
+      213: -7300509397734488254
+    second: Elif_FB_Sprites_63
+  - first:
+      213: -3892758744486717813
+    second: Elif_FB_Sprites_64
+  - first:
+      213: 3264162742753307153
+    second: Elif_FB_Sprites_65
+  - first:
+      213: 1101182809684307343
+    second: Elif_FB_Sprites_66
+  - first:
+      213: 3071075269356256493
+    second: Elif_FB_Sprites_67
+  - first:
+      213: 7529546406971152481
+    second: Elif_FB_Sprites_68
+  - first:
+      213: -4474419051565688855
+    second: Elif_FB_Sprites_69
+  - first:
+      213: -7636148075297504300
+    second: Elif_FB_Sprites_70
+  - first:
+      213: -890104273025832756
+    second: Elif_FB_Sprites_71
+  - first:
+      213: -1924972718442727301
+    second: Elif_FB_Sprites_72
+  - first:
+      213: 1535467914190823730
+    second: Elif_FB_Sprites_73
+  - first:
+      213: 1608177762641629586
+    second: Elif_FB_Sprites_74
+  - first:
+      213: 6626203740837672242
+    second: Elif_FB_Sprites_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 145
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbaef0cf465206a0800000000000000
+      internalID: -6484525612919772220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 255
+        width: 146
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8341be7a2641000800000000000000
+      internalID: 5737972877244580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 437
+        width: 169
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37996db99d83323f0800000000000000
+      internalID: -926834591034599053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 473
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4802cbc223e2846b0800000000000000
+      internalID: -5311944967449730940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 457
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8891a5422f6eddc30800000000000000
+      internalID: 4385915539795089800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 398
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e5a91688ace320800000000000000
+      internalID: 2588629179740579949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 395
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b850ae2505597a0800000000000000
+      internalID: -6371097780801926392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 391
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ade127edb2455610800000000000000
+      internalID: 1609265825248832930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 412
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ac3ff13cbd86ee0800000000000000
+      internalID: -1267521664003618172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 391
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e2e42f4877dcce0800000000000000
+      internalID: -1383318097648275942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 396
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ebc9dabfe209700800000000000000
+      internalID: 544987213396229783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 368
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13329083ab9f09c0800000000000000
+      internalID: -3958774420896337121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 384
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7cd0b41a2a3e1b0800000000000000
+      internalID: -5628476295650359325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 375
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1e3db23d078ea80800000000000000
+      internalID: -8437369849602907713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 375
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707111d9d8776aed0800000000000000
+      internalID: -2403101901046343929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20825493f40a17c0800000000000000
+      internalID: -4099959066555416531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 360
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c616ea9454617f0800000000000000
+      internalID: -642249714093167520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 370
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9189e662625b1f30800000000000000
+      internalID: 4547318831347499421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 353
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a881c9df23415a0800000000000000
+      internalID: -6551555493090260462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 353
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c104294bb3967290800000000000000
+      internalID: -7892958864324951607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 354
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d5fb6726844e900800000000000000
+      internalID: 712774228767628658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 331
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a572eb585bf3d960800000000000000
+      internalID: 7625714950985643427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 331
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2414e98fae03f18c0800000000000000
+      internalID: -4026445756094332606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 331
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e4217b793ff5210800000000000000
+      internalID: 1324044648407256712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 331
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf4c1e8fafe10da0800000000000000
+      internalID: -5980235292888772687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 314
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddc74d4f4493a940800000000000000
+      internalID: 5306247854292454872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 330
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b03faaff904c0a0800000000000000
+      internalID: -6862348938516427911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 330
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337a6d51129310f0800000000000000
+      internalID: -1147412876769987792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 330
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58032fb75c4530e30800000000000000
+      internalID: 4468508462446424197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 328
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4cd4b38c14483f0800000000000000
+      internalID: -899521697323039569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 307
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ddcefbb0a96200800000000000000
+      internalID: 173846789924705816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 307
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fc95447da2183d0800000000000000
+      internalID: -3206234355658010804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 307
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8fe79d604810390800000000000000
+      internalID: -7853851110203787103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 307
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0514862b1f5354080800000000000000
+      internalID: -9203890951265173168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 317
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30169487186401af0800000000000000
+      internalID: -427764442717396733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 287
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dfad8e42ef0d360800000000000000
+      internalID: 7192528039389625685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 293
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357aa7442c6e50210800000000000000
+      internalID: 1298697789613188947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 258
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fe1f46ebba6b7a0800000000000000
+      internalID: -6361708589388533985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 257
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a69c987305b8c0800000000000000
+      internalID: -3984274478781257831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01d295677f55d560800000000000000
+      internalID: 7337876134279958799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 257
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e269a1bfc3f6a3b10800000000000000
+      internalID: 1962002895374816814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 103
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869463c8f44921f00800000000000000
+      internalID: 1086093529525406056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 228
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa96b3643b2ddb6b0800000000000000
+      internalID: -5278831520789075542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 191
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfc3dc612ddb7a60800000000000000
+      internalID: 7672969525785251796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 203
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d79ac4df2cddbe20800000000000000
+      internalID: 3368090194334619603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 30
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f196eb0cb67d4ae00800000000000000
+      internalID: 1055205070506715423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 29
+        width: 28
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8188a255820372d00800000000000000
+      internalID: 947779196370454552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 30
+        width: 29
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2383f711c0baea0800000000000000
+      internalID: -5860577220804201730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 30
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b43f99da974d50800000000000000
+      internalID: 6721511228343366523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 161
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c73c61cd98ba610800000000000000
+      internalID: 1633550868219657255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 177
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cb70ddf2745e250800000000000000
+      internalID: 5973258751674137620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 181
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6224d9b07855ad360800000000000000
+      internalID: 7195157393181590054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 127
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747654836fb19f710800000000000000
+      internalID: 1727442676393273159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 153
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f633f8e029a5e9ab0800000000000000
+      internalID: -4999458952978680977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 93
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc26b18250604960800000000000000
+      internalID: 7584167679971699927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c757df2532d75970800000000000000
+      internalID: 8743688327440848838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 99
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d207a85b3abf4770800000000000000
+      internalID: 8597294977726743254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db105458a384ce040800000000000000
+      internalID: 4678193529112297917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 106
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053bf0945513e5960800000000000000
+      internalID: 7592560264160981840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 69
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f57e12ec6ffb3f0800000000000000
+      internalID: -882715636748820731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 99
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a3d4524a95c1c90800000000000000
+      internalID: -7197779542909568377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471cf281aaf215960800000000000000
+      internalID: 7588899254692725108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172f85481dda26f60800000000000000
+      internalID: 8026168601307837041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24782ace1616faa90800000000000000
+      internalID: -7300509397734488254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d29eeb842af9c0800000000000000
+      internalID: -3892758744486717813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 41
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a20e268b2ac4d20800000000000000
+      internalID: 3264162742753307153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 54
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8deffb5eef284f00800000000000000
+      internalID: 1101182809684307343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 18
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec777cafa6ae9a20800000000000000
+      internalID: 3071075269356256493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 28
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168955b50925e7860800000000000000
+      internalID: 7529546406971152481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 7
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7df2f349ba7e1c0800000000000000
+      internalID: -4474419051565688855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 8
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d30c9798c3f60690800000000000000
+      internalID: -7636148075297504300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 7
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ec3131e6b5a3f0800000000000000
+      internalID: -890104273025832756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 6
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7837e2f28f1945e0800000000000000
+      internalID: -1924972718442727301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 16
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231aa55cee31f4510800000000000000
+      internalID: 1535467914190823730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 6
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291dfe59725615610800000000000000
+      internalID: 1608177762641629586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elif_FB_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2357ef5f13105fb50800000000000000
+      internalID: 6626203740837672242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

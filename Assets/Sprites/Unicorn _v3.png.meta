@@ -1,0 +1,2177 @@
+fileFormatVersion: 2
+guid: 6b62d738921a88c43bc00768526e4a6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6605879596741862726
+    second: Unicorn _v3_0
+  - first:
+      213: -2436445629328408349
+    second: Unicorn _v3_1
+  - first:
+      213: -836356187823933708
+    second: Unicorn _v3_2
+  - first:
+      213: -3836756409956528753
+    second: Unicorn _v3_3
+  - first:
+      213: 6146469328061903275
+    second: Unicorn _v3_4
+  - first:
+      213: -2034935885100271035
+    second: Unicorn _v3_5
+  - first:
+      213: -5964796769395866056
+    second: Unicorn _v3_6
+  - first:
+      213: 5383942607492856569
+    second: Unicorn _v3_7
+  - first:
+      213: -8968608944854761307
+    second: Unicorn _v3_8
+  - first:
+      213: -5486226124108788179
+    second: Unicorn _v3_9
+  - first:
+      213: 4647213842082618518
+    second: Unicorn _v3_10
+  - first:
+      213: 2794822063458338445
+    second: Unicorn _v3_11
+  - first:
+      213: -1607758255507660269
+    second: Unicorn _v3_12
+  - first:
+      213: -3977400237757957128
+    second: Unicorn _v3_13
+  - first:
+      213: 6459488930140954647
+    second: Unicorn _v3_14
+  - first:
+      213: -1227779524752422188
+    second: Unicorn _v3_15
+  - first:
+      213: -4041155962005618070
+    second: Unicorn _v3_16
+  - first:
+      213: -3850828274286498814
+    second: Unicorn _v3_17
+  - first:
+      213: 9150087058062229647
+    second: Unicorn _v3_18
+  - first:
+      213: 6046568747466314525
+    second: Unicorn _v3_19
+  - first:
+      213: 7287644277557398178
+    second: Unicorn _v3_20
+  - first:
+      213: 6528375644504971010
+    second: Unicorn _v3_21
+  - first:
+      213: 5006080309279794760
+    second: Unicorn _v3_22
+  - first:
+      213: 5885706200394877227
+    second: Unicorn _v3_23
+  - first:
+      213: 5968494318729971832
+    second: Unicorn _v3_24
+  - first:
+      213: -5812025028247698407
+    second: Unicorn _v3_25
+  - first:
+      213: 1397412392323629807
+    second: Unicorn _v3_26
+  - first:
+      213: 7886469355520509834
+    second: Unicorn _v3_27
+  - first:
+      213: -4987607940810201816
+    second: Unicorn _v3_28
+  - first:
+      213: 9028773904811031029
+    second: Unicorn _v3_29
+  - first:
+      213: -1049947070969276375
+    second: Unicorn _v3_30
+  - first:
+      213: 3580445734668163623
+    second: Unicorn _v3_31
+  - first:
+      213: -3215566364570356586
+    second: Unicorn _v3_32
+  - first:
+      213: -3326120071873874344
+    second: Unicorn _v3_33
+  - first:
+      213: -8746449784529820928
+    second: Unicorn _v3_34
+  - first:
+      213: 8903205670292695550
+    second: Unicorn _v3_35
+  - first:
+      213: 7590380529069070827
+    second: Unicorn _v3_36
+  - first:
+      213: -3943676162422678315
+    second: Unicorn _v3_37
+  - first:
+      213: 4589373020053672639
+    second: Unicorn _v3_38
+  - first:
+      213: -3388155375637135985
+    second: Unicorn _v3_39
+  - first:
+      213: -4844393823526323750
+    second: Unicorn _v3_40
+  - first:
+      213: 2126411276212216913
+    second: Unicorn _v3_41
+  - first:
+      213: 3744660064937140835
+    second: Unicorn _v3_42
+  - first:
+      213: 1528995026519444019
+    second: Unicorn _v3_43
+  - first:
+      213: -3053352490434481109
+    second: Unicorn _v3_44
+  - first:
+      213: 2809100574474341953
+    second: Unicorn _v3_45
+  - first:
+      213: -1195038653797523235
+    second: Unicorn _v3_46
+  - first:
+      213: -1755194396692763047
+    second: Unicorn _v3_47
+  - first:
+      213: -7657707356756044489
+    second: Unicorn _v3_48
+  - first:
+      213: 3430200951627328045
+    second: Unicorn _v3_49
+  - first:
+      213: -6013577974172355043
+    second: Unicorn _v3_50
+  - first:
+      213: 6759907962797426641
+    second: Unicorn _v3_51
+  - first:
+      213: -1416138102200265524
+    second: Unicorn _v3_52
+  - first:
+      213: 5953003564272565907
+    second: Unicorn _v3_53
+  - first:
+      213: -1716233349736175524
+    second: Unicorn _v3_54
+  - first:
+      213: -840602206557588178
+    second: Unicorn _v3_55
+  - first:
+      213: -3115061756588508927
+    second: Unicorn _v3_56
+  - first:
+      213: 1133665901683789289
+    second: Unicorn _v3_57
+  - first:
+      213: -7046958856838389486
+    second: Unicorn _v3_58
+  - first:
+      213: -291477846406950724
+    second: Unicorn _v3_59
+  - first:
+      213: -5108864936957623511
+    second: Unicorn _v3_60
+  - first:
+      213: -4601318795783484946
+    second: Unicorn _v3_61
+  - first:
+      213: 4683454215873018371
+    second: Unicorn _v3_62
+  - first:
+      213: 2001726532860901375
+    second: Unicorn _v3_63
+  - first:
+      213: -8102634361720336656
+    second: Unicorn _v3_64
+  - first:
+      213: 1191469589587882336
+    second: Unicorn _v3_65
+  - first:
+      213: -4772618401300770858
+    second: Unicorn _v3_66
+  - first:
+      213: 837269424101994771
+    second: Unicorn _v3_67
+  - first:
+      213: -5608243692336214929
+    second: Unicorn _v3_68
+  - first:
+      213: -4683979579707086483
+    second: Unicorn _v3_69
+  - first:
+      213: -678462463639230964
+    second: Unicorn _v3_70
+  - first:
+      213: -4571469992208702714
+    second: Unicorn _v3_71
+  - first:
+      213: 6121382036307805985
+    second: Unicorn _v3_72
+  - first:
+      213: -5545042856685099570
+    second: Unicorn _v3_73
+  - first:
+      213: 4548339662483846077
+    second: Unicorn _v3_74
+  - first:
+      213: -1109137637645336848
+    second: Unicorn _v3_0
+  - first:
+      213: 8346284305499099668
+    second: Unicorn _v3_1
+  - first:
+      213: 5864662750182609961
+    second: Unicorn _v3_2
+  - first:
+      213: -4998068474511489483
+    second: Unicorn _v3_3
+  - first:
+      213: -1902816092977737355
+    second: Unicorn _v3_4
+  - first:
+      213: -3113733383341294019
+    second: Unicorn _v3_5
+  - first:
+      213: 4048316252689762892
+    second: Unicorn _v3_6
+  - first:
+      213: -8556741877651230214
+    second: Unicorn _v3_7
+  - first:
+      213: 9111872634897294572
+    second: Unicorn _v3_8
+  - first:
+      213: -8585567481127932749
+    second: Unicorn _v3_9
+  - first:
+      213: 8032186896597464394
+    second: Unicorn _v3_10
+  - first:
+      213: 7604401145472662396
+    second: Unicorn _v3_11
+  - first:
+      213: -9109578916215789022
+    second: Unicorn _v3_12
+  - first:
+      213: -7688872156906106705
+    second: Unicorn _v3_13
+  - first:
+      213: 6609183481205807797
+    second: Unicorn _v3_14
+  - first:
+      213: 2571748358356726076
+    second: Unicorn _v3_15
+  - first:
+      213: 2191590110995924536
+    second: Unicorn _v3_16
+  - first:
+      213: -5314871766917560143
+    second: Unicorn _v3_17
+  - first:
+      213: 5929559723114321277
+    second: Unicorn _v3_18
+  - first:
+      213: 8455920127503238601
+    second: Unicorn _v3_19
+  - first:
+      213: 1846803457984182084
+    second: Unicorn _v3_20
+  - first:
+      213: -2287886631729268503
+    second: Unicorn _v3_21
+  - first:
+      213: 1065334928012366436
+    second: Unicorn _v3_22
+  - first:
+      213: -394968215120041963
+    second: Unicorn _v3_23
+  - first:
+      213: 6495865719702377717
+    second: Unicorn _v3_24
+  - first:
+      213: -7473735377108120628
+    second: Unicorn _v3_25
+  - first:
+      213: -6082181960021606420
+    second: Unicorn _v3_26
+  - first:
+      213: -2515581713457773819
+    second: Unicorn _v3_27
+  - first:
+      213: -5266172634356028242
+    second: Unicorn _v3_28
+  - first:
+      213: 3289053356127917310
+    second: Unicorn _v3_29
+  - first:
+      213: 7174164800966226627
+    second: Unicorn _v3_30
+  - first:
+      213: -619417435843214796
+    second: Unicorn _v3_31
+  - first:
+      213: 519582657456544220
+    second: Unicorn _v3_32
+  - first:
+      213: 3868834008002959525
+    second: Unicorn _v3_33
+  - first:
+      213: 6458609030253213056
+    second: Unicorn _v3_34
+  - first:
+      213: -8752302706523635914
+    second: Unicorn _v3_35
+  - first:
+      213: 5820302772517453273
+    second: Unicorn _v3_36
+  - first:
+      213: 7816874913050000150
+    second: Unicorn _v3_37
+  - first:
+      213: -7051829263507688038
+    second: Unicorn _v3_38
+  - first:
+      213: 1594985848998620854
+    second: Unicorn _v3_39
+  - first:
+      213: -7946726823202500323
+    second: Unicorn _v3_40
+  - first:
+      213: 2894884215270127353
+    second: Unicorn _v3_41
+  - first:
+      213: 2551886778834229211
+    second: Unicorn _v3_42
+  - first:
+      213: 1181217382175693620
+    second: Unicorn _v3_43
+  - first:
+      213: 3712666939663263961
+    second: Unicorn _v3_44
+  - first:
+      213: -1410857616589847397
+    second: Unicorn _v3_45
+  - first:
+      213: 2124047813732809929
+    second: Unicorn _v3_46
+  - first:
+      213: -6698456879917959660
+    second: Unicorn _v3_47
+  - first:
+      213: 7675945223765757239
+    second: Unicorn _v3_48
+  - first:
+      213: -5066965128304655202
+    second: Unicorn _v3_49
+  - first:
+      213: -1196774831792546147
+    second: Unicorn _v3_50
+  - first:
+      213: -6404093247701736371
+    second: Unicorn _v3_51
+  - first:
+      213: 8407016089547872346
+    second: Unicorn _v3_52
+  - first:
+      213: -5423327207442216767
+    second: Unicorn _v3_53
+  - first:
+      213: 138616670419885550
+    second: Unicorn _v3_54
+  - first:
+      213: 4247058014823858131
+    second: Unicorn _v3_55
+  - first:
+      213: 8720112711867143802
+    second: Unicorn _v3_56
+  - first:
+      213: -1452063440807409868
+    second: Unicorn _v3_57
+  - first:
+      213: -5836737924448754369
+    second: Unicorn _v3_58
+  - first:
+      213: 3697919450318207521
+    second: Unicorn _v3_59
+  - first:
+      213: -7466153831336833563
+    second: Unicorn _v3_60
+  - first:
+      213: 4870356717432779268
+    second: Unicorn _v3_61
+  - first:
+      213: -8406825976125922140
+    second: Unicorn _v3_62
+  - first:
+      213: 1395889570166906553
+    second: Unicorn _v3_63
+  - first:
+      213: 4024492254928191109
+    second: Unicorn _v3_64
+  - first:
+      213: -5576734428489855879
+    second: Unicorn _v3_65
+  - first:
+      213: 3807154221914612134
+    second: Unicorn _v3_66
+  - first:
+      213: -7395193510663865246
+    second: Unicorn _v3_67
+  - first:
+      213: -4220649009374513761
+    second: Unicorn _v3_68
+  - first:
+      213: -4565715432761412185
+    second: Unicorn _v3_69
+  - first:
+      213: -2451701690904833513
+    second: Unicorn _v3_70
+  - first:
+      213: -2580803900664338251
+    second: Unicorn _v3_71
+  - first:
+      213: 226907936433748825
+    second: Unicorn _v3_72
+  - first:
+      213: 1758040728992806375
+    second: Unicorn _v3_73
+  - first:
+      213: 2350044282596964286
+    second: Unicorn _v3_74
+  - first:
+      213: -4977380043637764795
+    second: Unicorn _v3_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unicorn _v3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 294
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe322de13d8b90f0800000000000000
+      internalID: -1109137637645336848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 437
+        width: 168
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41211b7fa55f3d370800000000000000
+      internalID: 8346284305499099668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 473
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9249910f2b7736150800000000000000
+      internalID: 5864662750182609961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 457
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5360aad043b43aab0800000000000000
+      internalID: -4998068474511489483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 395
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5715a2158d6d795e0800000000000000
+      internalID: -1902816092977737355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_5
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 391
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ebaa03cfbc9c4d0800000000000000
+      internalID: -3113733383341294019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 412
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a8304de228e2830800000000000000
+      internalID: 4048316252689762892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 391
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1b3eb0998504980800000000000000
+      internalID: -8556741877651230214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 396
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4e7a972efd37e70800000000000000
+      internalID: 9111872634897294572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 368
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc693c3ddfe9d880800000000000000
+      internalID: -8585567481127932749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 384
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a453d351d6f087f60800000000000000
+      internalID: 8032186896597464394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 375
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bb87d4d82488960800000000000000
+      internalID: 7604401145472662396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 375
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ae1958d36449180800000000000000
+      internalID: -9109578916215789022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0583cb283ab4590800000000000000
+      internalID: -7688872156906106705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 360
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bad6a4fb5988bb50800000000000000
+      internalID: 6609183481205807797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 370
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31fb87918fa0b320800000000000000
+      internalID: 2571748358356726076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 353
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836cb2b28971a6e10800000000000000
+      internalID: 2191590110995924536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 353
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b840229948cd36b0800000000000000
+      internalID: -5314871766917560143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 354
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7551bae6270a4250800000000000000
+      internalID: 5929559723114321277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 331
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c508e8fd86795570800000000000000
+      internalID: 8455920127503238601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 331
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4473c13d5f921a910800000000000000
+      internalID: 1846803457984182084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 331
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8796dea3bcf30e0800000000000000
+      internalID: -2287886631729268503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 331
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4625efef874d8ce00800000000000000
+      internalID: 1065334928012366436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 314
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5182330408ac48af0800000000000000
+      internalID: -394968215120041963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 330
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f45f7b9473f52a50800000000000000
+      internalID: 6495865719702377717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_25
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 330
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4336a545f74890800000000000000
+      internalID: -7473735377108120628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 330
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef7f9d6bbfb79ba0800000000000000
+      internalID: -6082181960021606420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 328
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50381ed72cbd61dd0800000000000000
+      internalID: -2515581713457773819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 307
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac6353f3ebcae6b0800000000000000
+      internalID: -5266172634356028242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_29
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 307
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef49f4be99015ad20800000000000000
+      internalID: 3289053356127917310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_30
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 307
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f3b940e0cf8360800000000000000
+      internalID: 7174164800966226627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 307
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432c1e8bf136767f0800000000000000
+      internalID: -619417435843214796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 317
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd996219cade53700800000000000000
+      internalID: 519582657456544220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_33
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 304
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a897f5480cd0b530800000000000000
+      internalID: 3868834008002959525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 287
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0857f5f91b691a950800000000000000
+      internalID: 6458609030253213056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 293
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ff7f26f03998680800000000000000
+      internalID: -8752302706523635914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 257
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddbf19c88ed5c050800000000000000
+      internalID: 5820302772517453273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_37
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 256
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf10e515e1b7c60800000000000000
+      internalID: 7816874913050000150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_38
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 291
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a957be3a5aed22e90800000000000000
+      internalID: -7051829263507688038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be6657dd27822610800000000000000
+      internalID: 1594985848998620854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_40
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1152ffce0e87b190800000000000000
+      internalID: -7946726823202500323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_41
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 267
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6bf052bd1bc2820800000000000000
+      internalID: 2894884215270127353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 257
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd71e6f318f1a6320800000000000000
+      internalID: 2551886778834229211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 183
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b591363f6846010800000000000000
+      internalID: 1181217382175693620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 181
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d827fb39ea068330800000000000000
+      internalID: 3712666939663263961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 178
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9402860970ab6ce0800000000000000
+      internalID: -1410857616589847397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_46
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 230
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc3d7f9b322a7d10800000000000000
+      internalID: 2124047813732809929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_47
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 206
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416f73925fc4a03a0800000000000000
+      internalID: -6698456879917959660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_48
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 179
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d0ae9138f668a60800000000000000
+      internalID: 7675945223765757239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_49
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e940c1ecf068ea9b0800000000000000
+      internalID: -5066965128304655202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 30
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e90ea91a3346fe0800000000000000
+      internalID: -1196774831792546147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_51
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 30
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a24e1f171027a0800000000000000
+      internalID: -6404093247701736371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 30
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a589e765798bba470800000000000000
+      internalID: 8407016089547872346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 30
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c802bb83a87cb4b0800000000000000
+      internalID: -5423327207442216767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_54
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 99
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed135890277ce100800000000000000
+      internalID: 138616670419885550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_55
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 168
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df3d0a33c490fa30800000000000000
+      internalID: 4247058014823858131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_56
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 98
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7695307f40140970800000000000000
+      internalID: 8720112711867143802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 95
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437c7537efb39dbe0800000000000000
+      internalID: -1452063440807409868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_58
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 159
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f356e2638cdbffea0800000000000000
+      internalID: -5836737924448754369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_59
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 152
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a793cc526a15330800000000000000
+      internalID: 3697919450318207521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_60
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 142
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed0fb4d5a4e26890800000000000000
+      internalID: -7466153831336833563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_61
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402b40851abf69340800000000000000
+      internalID: 4870356717432779268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_62
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ec74e054f45b80800000000000000
+      internalID: -8406825976125922140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_63
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be98771b223f5310800000000000000
+      internalID: 1395889570166906553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_64
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e3e48126ed9d730800000000000000
+      internalID: 4024492254928191109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ccb2785957b92b0800000000000000
+      internalID: -5576734428489855879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 43
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1695af79ab5d430800000000000000
+      internalID: 3807154221914612134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_67
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 21
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c3b97feaefe5990800000000000000
+      internalID: -7395193510663865246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_68
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 19
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95b0a2861e3d65c0800000000000000
+      internalID: -4220649009374513761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_69
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 25
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5bcbc010253a0c0800000000000000
+      internalID: -4565715432761412185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 18
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71294624d4ec9fdd0800000000000000
+      internalID: -2451701690904833513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_71
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 16
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8a5f9a6842f2cd0800000000000000
+      internalID: -2580803900664338251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_72
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bb9d3e093262300800000000000000
+      internalID: 226907936433748825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 6
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f8408ab0d56810800000000000000
+      internalID: 1758040728992806375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_74
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 223
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb731aee2d80d9020800000000000000
+      internalID: 2350044282596964286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unicorn _v3_75
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 199
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4adab83bcceab0800000000000000
+      internalID: -4977380043637764795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
